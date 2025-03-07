@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.primary-bg{
+	background:#1976d2!important;
+}
+
+.post-title{
+	font-weight:100;
+	font-size:24px;
+}
+
+.post-content{
+	font-weight:100;
+	font-size:25px;
+}
+
+.post-date{
+	font-style:italic;
+	font-weight:bold;
+}
